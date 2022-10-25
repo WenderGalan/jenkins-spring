@@ -1,10 +1,10 @@
-package br.com.wendergalan.jenkinsspring;
+package br.com.wendergalan.springapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JenkinsSpringApplicationTests {
+class SpringApiApplicationTests {
 
 	@Test
 	void contextLoads() {

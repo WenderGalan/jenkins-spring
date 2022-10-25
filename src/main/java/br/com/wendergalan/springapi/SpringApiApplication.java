@@ -1,13 +1,13 @@
-package br.com.wendergalan.jenkinsspring;
+package br.com.wendergalan.springapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JenkinsSpringApplication {
+public class SpringApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JenkinsSpringApplication.class, args);
+		SpringApplication.run(SpringApiApplication.class, args);
 	}
 
 }
